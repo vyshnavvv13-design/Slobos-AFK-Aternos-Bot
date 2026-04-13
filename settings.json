@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "jackkzonn.aternos.me",
+    "ip": "jackkzonn.aternos.me:22911",
     "port": 22911,
     "version": "1.21.7",
     "try-creative": false
